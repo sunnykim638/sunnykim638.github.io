@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Sunyoung
 middle_name: 
 last_name: Kim
-contact_note: >
-  Feel free to reach out via email!
+contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Sunyoung (Sunny) Kim, first year PhD student at Arizona State Univeristy advised by Prof. Hokeun Kim at KIM Lab.
   I'm working on security and access control for agentic AI systems.
