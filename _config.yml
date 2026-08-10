@@ -1,0 +1,110 @@
+# -----------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------
+
+title: Sunyoung Kim # 
+first_name: Sunyoung
+middle_name:
+last_name: Kim
+email: skim638@asu.edu 
+description: >- 
+  Personal academic website of Sunyoung (Sunny) Kim, first year PhD student at Arizona
+  State University working on security and access control for agentic AI
+  systems. Advised by Prof. Hokeun Kim at KIM Lab.
+keywords: "Sunyoung Kim, agentic AI security, access control, IoT authentication, ASU" # SEO용 키워드
+
+lang: en 
+fav_icon_path: assets/img/favicon.ico
+
+url: https://sunnykim638.github.io 
+baseurl: 
+
+# -----------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------
+
+layout: sidebar # 'sidebar' or 'header'
+navbar_fixed: true
+header_type: profile
+enable_navbar_social: true
+
+# -----------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------
+
+github_username: sunnykim638 
+scholar_userid: "" # TODO: Google Scholar 프로필 ID
+linkedin_username: skim638 # TODO
+orcid_id: 0009-0002-7059-5911 # TODO
+
+contact_note: >
+  Feel free to reach out via email for collaboration or questions about
+  my research.
+
+# -----------------------------------------------------------------------
+# Blog / News (al-folio 기본 기능이지만 연구자 홈페이지에서는 꺼두는 경우도 많음)
+# -----------------------------------------------------------------------
+
+blog_enabled: false
+news_enabled: false
+news_scrollable: false
+news_limit: 5
+
+# -----------------------------------------------------------------------
+# Collections (publications, projects, cv 등 al-folio 표준 구조)
+# -----------------------------------------------------------------------
+
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# publications는 _bibliography/papers.bib 파일에서 관리됩니다.
+scholar:
+  style: apa
+  locale: en
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+  comment_template:
+  first_name: Sunyoung
+  last_name: [Kim]
+  more_than_two_authors_link: coauthors
+  height_ratio: 0.8
+
+# -----------------------------------------------------------------------
+# Nav bar links (사이드바/헤더에 표시될 메뉴)
+# -----------------------------------------------------------------------
+
+# _pages/*.md 파일의 nav: true 및 nav_order로 개별 관리됨
+# 기본 페이지: about, publications, cv, projects, news
+
+
+# -----------------------------------------------------------------------
+# Jekyll 빌드 설정 (al-folio 기본값, 보통 수정 불필요)
+# -----------------------------------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 5
+
+plugins:
+  - jekyll-archives
+  - jekyll-diagrams
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-imagemagick
+  - jekyll-minifier
+  - jekyll-paginate-content
+  - jekyll-scholar
+  - jekyll-sitemap
+  - jekyll-target-blank
+  - jekyll-twitter-plugin
+  - jekyll-github-stats
+  - jemoji
