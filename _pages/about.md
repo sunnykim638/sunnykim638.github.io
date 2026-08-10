@@ -9,6 +9,11 @@ profile:
   image: 
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p><i class="fas fa-map-marker-alt"></i> Tempe, AZ</p>
+    <p><i class="fas fa-university"></i> Arizona State University</p>
+    <p><i class="fas fa-envelope"></i> <a href="mailto:your_email@asu.edu">your_email@asu.edu</a></p>
+    <p><i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0000-0000-0000">ORCID</a></p>
+    <p><i class="fab fa-github"></i> <a href="https://github.com/sunnykim638">GitHub</a></p>
     
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,8 +31,12 @@ latest_posts:
 ---
 
 ## Introduction 
-
+I am a 1st-year Ph.D. student in the Department of Computer Science at
+Arizona State University, advised by Prof. [Hokeun Kim](https://hokeun.github.io/) in the [KIM Lab](https://labs.engineering.asu.edu/kim/).
+My research focuses on security and access control for agentic AI systems,
+spanning IoT/edge authentication systems and web-based AI agent delegation frameworks.
 
 ## Education
-
+- **2026 – present**: Ph.D. in Computer Science, Arizona State University
+- **2023 – 2026**: B.S. in Computer Science, Arizona State University
 
