@@ -18,7 +18,7 @@ img: /assets/img/12.jpg
 <span class="nt">&lt;/div&gt;</span>
 </code></pre></div></div> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Sunyoung Kim. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
   document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll('a[href$=".pdf"]').forEach(function (link) {
+    document.querySelectorAll('a[href*="doi.org"], a[href$=".pdf"]').forEach(function (link) {
       link.setAttribute("target", "_blank");
       link.setAttribute("rel", "noopener");
     });
