@@ -38,6 +38,7 @@ My research focuses on security and access control for agentic AI systems,
 spanning IoT/edge authentication systems.
 
 ## Education
-- **2026 – present**: Ph.D. in Computer Science, Arizona State University
-- **2023 – 2026**: B.S. in Computer Science, Arizona State University
+- **Aug. 2026 – present**: Ph.D. in Computer Science, Arizona State University, USA
+- **Aug. 2023 – May 2026**: B.S. in Computer Science, Arizona State University, USA
+- **Mar. 2021 – Feb. 2023**: Sookmyung Women's University, South Korea (Transferred)
 
