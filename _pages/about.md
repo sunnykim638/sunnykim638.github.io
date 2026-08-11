@@ -35,7 +35,7 @@ latest_posts:
 I am a 1st-year Ph.D. student in the Department of Computer Science at
 Arizona State University, advised by Prof. [Hokeun Kim](https://hokeun.github.io/) in the [KIM Lab](https://labs.engineering.asu.edu/kim/).
 My research focuses on security and access control for agentic AI systems,
-spanning IoT/edge authentication systems and web-based AI agent delegation frameworks.
+spanning IoT/edge authentication systems.
 
 ## Education
 - **2026 – present**: Ph.D. in Computer Science, Arizona State University
