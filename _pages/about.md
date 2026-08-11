@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: 1st year PhD Student at Arizona State University
+subtitle: 
+# 1st year PhD Student at Arizona State University
 
 profile:
   align: right
@@ -11,8 +12,8 @@ profile:
   more_info: >
     <p><i class="fas fa-map-marker-alt"></i> Tempe, AZ</p>
     <p><i class="fas fa-university"></i> Arizona State University</p>
-    <p><i class="fas fa-envelope"></i> <a href="mailto:your_email@asu.edu">your_email@asu.edu</a></p>
-    <p><i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0000-0000-0000">ORCID</a></p>
+    <p><i class="fas fa-envelope"></i> <a href="mailto:skim638@asu.edu">skim638@asu.edu</a></p>
+    <p><i class="ai ai-orcid"></i> <a href="https://orcid.org/0009-0002-7059-5911">ORCID</a></p>
     <p><i class="fab fa-github"></i> <a href="https://github.com/sunnykim638">GitHub</a></p>
     
 
