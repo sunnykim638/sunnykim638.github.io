@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: 
+  image: logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fas fa-map-marker-alt"></i> Tempe, AZ</p>
@@ -48,7 +48,7 @@ spanning IoT/edge authentication systems.
 - **[A Case Study on Delegating Critical Tasks to Agentic AI and Prototype Access Control Methods](https://doi.org/10.1109/CARS67163.2025.11337816)** [[Code](https://github.com/asu-kim/agentic-ai-access-control)] [[Slides](/assets/pdf/1571197674_Kim.pptx)]
   **Sunyoung Kim** and Hokeun Kim. *Proceedings of the IEEE 5th Cyber Awareness and Research Symposium (CARS'25)*, 2025. 
 
-## Awards & Fellowships
+## Awards
 - **FURI (Fulton Undergraduate Research Initiative), Arizona State University** — Research Award, Spring 2026
 - **FURI (Fulton Undergraduate Research Initiative), Arizona State University** — Research Award, Summer 2025
 - **IEEE 5th Cyber Awareness and Research Symposium (CARS'25)** — Honorable Mention, Undergraduate Presenter Award
