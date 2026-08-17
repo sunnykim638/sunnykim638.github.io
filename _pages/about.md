@@ -42,3 +42,13 @@ spanning IoT/edge authentication systems.
 - **Aug. 2023 – May 2026**: B.S. in Computer Science, Arizona State University, USA
 - **Mar. 2021 – Feb. 2023**: Sookmyung Women's University, South Korea (Transferred)
 
+## Publications
+- **[Access Controlled Website Interaction for Agentic AI with Delegated Critical Tasks](https://doi.org/10.1145/3774904.3792864)** [[Code](https://github.com/asu-kim/agentic-website)] [[Poster](/assets/pdf/WWW_2026_Sunyoung_Poster.pdf)]
+  **Sunyoung Kim** and Hokeun Kim. *Proceedings of the ACM Web Conference (WWW)*, 2026.
+- **[A Case Study on Delegating Critical Tasks to Agentic AI and Prototype Access Control Methods](https://doi.org/10.1109/CARS67163.2025.11337816)** [[Code](https://github.com/asu-kim/agentic-ai-access-control)] [[Slides](/assets/pdf/1571197674_Kim.pptx)]
+  **Sunyoung Kim** and Hokeun Kim. *Proceedings of the IEEE 5th Cyber Awareness and Research Symposium (CARS'25)*, 2025. 
+
+## Awards & Fellowships
+- **FURI (Fulton Undergraduate Research Initiative), Arizona State University** — Research Award, Spring 2026
+- **FURI (Fulton Undergraduate Research Initiative), Arizona State University** — Research Award, Summer 2025
+- **IEEE 5th Cyber Awareness and Research Symposium (CARS'25)** — Honorable Mention, Undergraduate Presenter Award
