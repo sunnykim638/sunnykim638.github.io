@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: logo.png
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fas fa-map-marker-alt"></i> Tempe, AZ</p>
